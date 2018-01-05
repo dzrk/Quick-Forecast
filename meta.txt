@@ -1,0 +1,2 @@
+csv format
+date	pos	loc	high	low	rain	cloud	hum	ico	sum
